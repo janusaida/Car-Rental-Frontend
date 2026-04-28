@@ -96,7 +96,7 @@ function Bookings() {
       status: "Pending",
     },
     {
-      user: "Rahul",
+      user: "janusasassasko",
       car: "Audi A6",
       date: "2026-04-12",
       status: "Pending",
